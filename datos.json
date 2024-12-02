@@ -1,0 +1,61 @@
+{
+    "ciudades": [
+      {
+        "id": 1,
+        "nombre": "Buenos Aires",
+        "temperatura": 20,
+        "humedad": 60,
+        "condicion": "Mayormente soleado"
+      },
+      {
+        "id": 2,
+        "nombre": "Santiago",
+        "temperatura": 22,
+        "humedad": 43,
+        "condicion": "Parcialmente nublado"
+      },
+      {
+        "id": 3,
+        "nombre": "Lima",
+        "temperatura": 25,
+        "humedad": 80,
+        "condicion": "Nublado"
+      },
+      {
+        "id": 3,
+        "nombre": "Ciudad de México",
+        "temperatura": 18,
+        "humedad": 35,
+        "condicion": "Lluvioso"
+      },
+      {
+        "id": 4,
+        "nombre": "São Paulo",
+        "temperatura": 23,
+        "humedad": 53,
+        "condicion": "Mayormente soleado"
+      },
+      {
+        "id": 5,
+        "nombre": "Bogotá",
+        "temperatura": 17,
+        "humedad": 73,
+        "condicion": "Lluvia ligera"
+      },
+      {
+        "id": 6,
+        "nombre": "Lima",
+        "temperatura": 25,
+        "humedad": 83,
+        "condicion": "Nublado"
+      },
+      {
+        "id": 7,
+        "nombre": "Montevideo",
+        "temperatura": 19,
+        "humedad": 91,
+        "condicion": "Mayormente despejado"
+      }
+    ]
+  }
+  
